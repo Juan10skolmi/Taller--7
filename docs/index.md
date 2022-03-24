@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi pagina
 
-You can use the [editor on GitHub](https://github.com/Juan10skolmi/Taller--7/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Use el [editor de GitHub](https://github.com/Juan10skolmi/Taller--7/edit/main/docs/index.md) para hacer que mi pagina este alojada en un servidor. De esta manera se podra entrar en mi pagina, desde cualquier parte del mundo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
