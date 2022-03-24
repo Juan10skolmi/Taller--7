@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to hjnb
 
 You can use the [editor on GitHub](https://github.com/Juan10skolmi/Taller--7/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
